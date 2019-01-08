@@ -1,0 +1,28 @@
+{
+  "name": "ics-java-wine",
+  "version": "0.0.1",
+  "description": "A wine package for Laravel development and deployment.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Iainmon/ics-java-wine.git"
+  },
+  "keywords": [
+    "wine",
+    "ics",
+    "java",
+    "grapejuice"
+  ],
+  "author": "Iain Moncrief",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Iainmon/ics-java-wine/issues"
+  },
+  "homepage": "https://github.com/Iainmon/ics-java-wine#readme",
+  "dependencies": {
+    "grapejuice": "^0.1.2"
+  }
+}
