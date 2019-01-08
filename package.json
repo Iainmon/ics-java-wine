@@ -1,8 +1,8 @@
 {
   "name": "ics-java-wine",
   "version": "0.0.1",
-  "description": "A wine package for Laravel development and deployment.",
-  "main": "index.js",
+  "description": "A wine package for managing your ICS Java projects and files.",
+  "main": "wine",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

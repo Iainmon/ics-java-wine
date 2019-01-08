@@ -1,3 +1,4 @@
 {
-  "copypath" : "./winery/"
+  "copypath" : "./winery/",
+  "requireplanting" : true
 }
